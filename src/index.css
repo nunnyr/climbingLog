@@ -1,0 +1,32 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2323dc;
+  margin-top: 60px;
+  
+}
+
+body {
+  background-color: #aeacf0;
+  
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  border-radius: 5px;
+}
+
+button {
+  margin: 5px;
+  border-radius: 5px;
+  background-color: lightcyan;
+  color: rgb(54, 13, 121);
+}
+
+button:hover {
+  background-color: lightblue
+}
+
