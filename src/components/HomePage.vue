@@ -15,12 +15,12 @@
 <script>
 
 export default {
-    props: {
-        text: {
-            type: String,
-            required: true
-        },
-    },
+    // props: {
+    //     text: {
+    //         type: String,
+    //         default: 'edit'
+    //     },
+    // },
     
     data() {
         return {
